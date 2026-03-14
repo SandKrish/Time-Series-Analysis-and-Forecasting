@@ -1,9 +1,22 @@
-# Time Series Analysis and Forecasting for two targets!!!!
+# Time Series Analysis and Forecasting
 
-This notebook analyses timeseries using statistical model ARIMA and Machine Learning model XGBRegressor.
-By using XGBRegressor unseen samples  predicted for 15 days.
+This repository contains a notebook for **time series analysis and forecasting** using statistical and machine learning models.
 
-Dataset used here is from a Kaggle Competition ACEA SMART WATER PREDICTION
+## Notebook
 
-Reference is also mentioned at end the notebook.
+**Time_Series_Analysis_and_Forecasting.ipynb**
 
+The notebook analyzes time series data and builds forecasting models using:
+
+* ARIMA (statistical time series model)
+* XGBoost Regressor (machine learning model)
+
+The models are used to **predict future values for the next 15 days**.
+
+## Dataset
+
+The dataset used in this project comes from the **ACEA Smart Water Prediction Kaggle Competition**.
+
+## Author
+
+Sandhya Krishnan
